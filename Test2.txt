@@ -1,1 +1,2 @@
 Ovo je primjer.
+Ovo je promjena koja ce bit vidljiva u gitu
